@@ -229,5 +229,6 @@ data/outputs/*
 !data/chunks/.gitkeep
 !data/outputs/.gitkeep
 
+*.wav
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,visualstudiocode,venv
