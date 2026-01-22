@@ -219,8 +219,15 @@ pip-selfcheck.json
 .history
 .ionide
 
+# data 폴더의 산출물은 무시
+data/uploads/*
 data/chunks/*
 data/outputs/*
-data/uploads/*
+
+# 대신 폴더 유지용 파일은 추적
+!data/uploads/.gitkeep
+!data/chunks/.gitkeep
+!data/outputs/.gitkeep
+
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,visualstudiocode,venv
