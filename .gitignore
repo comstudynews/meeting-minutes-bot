@@ -230,5 +230,10 @@ data/outputs/*
 !data/outputs/.gitkeep
 
 *.wav
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,visualstudiocode,venv
