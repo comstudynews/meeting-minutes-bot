@@ -219,4 +219,8 @@ pip-selfcheck.json
 .history
 .ionide
 
+data/chunks/*
+data/outputs/*
+data/uploads/*
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,visualstudiocode,venv
