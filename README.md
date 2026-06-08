@@ -1,6 +1,6 @@
 # 3.1 회의록 요약봇 만들기
 
-### 작성: 김범준 강사(comstudian@gmail.com)
+### 작성: 김범준(comstudian@gmail.com)
 
 소스코드: [https://github.com/comstudynews/meeting-minutes-bot](https://github.com/comstudynews/meeting-minutes-bot)
 
