@@ -655,11 +655,3 @@ MEETING_MINUTES_SCHEMA = """
 ⑤ OpenAI Audio 가이드: [https://platform.openai.com/docs/guides/audio](https://platform.openai.com/docs/guides/audio) 
 
 ⑥ OpenAI Responses API: [https://platform.openai.com/docs/api-reference/responses](https://platform.openai.com/docs/api-reference/responses) 
-
----
-
-[[미니] 회의록 요약봇 구현](https://app.notion.com/p/843f617e78e382d3947c0176c2c03d3f?pvs=21)
-
-[파이썬 단위 테스트(Unit Test)](https://app.notion.com/p/Unit-Test-18ef617e78e382e5b1d301728b923eae?pvs=21)
-
-[VirtualBox 공유 폴더 + Guest Additions 설치](https://app.notion.com/p/VirtualBox-Guest-Additions-a7af617e78e38304987601e6e35046da?pvs=21)
