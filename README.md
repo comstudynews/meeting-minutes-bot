@@ -1,4 +1,7 @@
 # meeting-minutes-bot
+---
+## 작성: 김범준(comstudian@gmail.cm)
+---
 ### ① venv 생성/활성화
 ### ② requirements 설치
 ### ③ ffmpeg 설치(Ubuntu)
